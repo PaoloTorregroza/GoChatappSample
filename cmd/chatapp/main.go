@@ -1,7 +1,7 @@
 package main
 
 import (
-	"chatapp/internal/orders/api"
+	"chatapp/internal/chatapp/api"
 	"fmt"
 	"log"
 	"net/http"
